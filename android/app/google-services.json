@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5933227903",
+    "project_id": "base-96ab2",
+    "storage_bucket": "base-96ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5933227903:android:b64b2f1a98e8604411c44a",
+        "android_client_info": {
+          "package_name": "com.example.cahiert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCgpnrV2in4pAUQqgcqj-vDZSTtTcONF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
